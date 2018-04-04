@@ -1,0 +1,9 @@
+drone_host: tp115.ccm.u13.org
+drone_admins:
+  - frederic28
+  - geoffreylopez
+  - Lowess
+
+# Secrets stored in vault.yml
+drone_oauth_client: "{{ vault_drone_oauth_client }}"
+drone_oauth_secret: "{{ vault_drone_oauth_secret }}"
