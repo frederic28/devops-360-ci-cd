@@ -1,0 +1,1 @@
+spa_repo_url: https://github.com/frederic28/devops-360-react/releases/download/{{ spa_version }}/build.tar.gz
