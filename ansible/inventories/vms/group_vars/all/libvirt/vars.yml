@@ -1,4 +1,7 @@
 ---
+libvirt_dns_server: 172.16.115.254
+libvirt_dns_zone: dell115.u13.org
+libvirt_ip_prefix: '172.16.115'
 
 libvirt_vms:
   drone:
